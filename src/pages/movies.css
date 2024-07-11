@@ -6,3 +6,8 @@
     gap: 20px;
     padding: 20px;
 }
+.no-movies {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
