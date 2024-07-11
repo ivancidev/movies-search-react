@@ -3,7 +3,7 @@
 Movie Search React es una aplicación web que permite buscar información sobre películas utilizando la API de The Movie Database [TMDB](https://www.themoviedb.org/). La aplicación está construida con React Vite y utiliza Material UI para los componentes de la interfaz de usuario.
 
 ## Screen
-[![Captura-de-pantalla-2024-07-08-233851.png](https://i.postimg.cc/c4rYCGKr/Captura-de-pantalla-2024-07-08-233851.png)](https://postimg.cc/w7Y34PQp)
+[![Captura-de-pantalla-2024-07-11-195822.png](https://i.postimg.cc/8PHqR3kh/Captura-de-pantalla-2024-07-11-195822.png)](https://postimg.cc/ZCW7ZwdR)
 
 ## Requisitos
 
